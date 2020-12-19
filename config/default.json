@@ -1,0 +1,6 @@
+{
+  "mongoDB": "mongodb+srv://tomarviii88:s13imXv45GKUb5h3@cluster0.eidk7.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "secretKet": "mySecretabc90",
+  "senderEmail":"medhavi.triceria@gmail.com",
+  "senderPassword":"medhavi.triceria@16"
+}
